@@ -98,4 +98,3 @@ second
 
 ![this is a image](./16948_82207_18_2.jpg)
 
-<p>italic and **bold**</p> 
